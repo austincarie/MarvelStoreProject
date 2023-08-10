@@ -82,3 +82,21 @@ a:link, a:visited, a:hover, a:active{
     top: -37px;
     float: right;
 }
+.footer {
+    background-image:url(./assets/marvel.png);
+    background-repeat: repeat;
+    height: 150px;
+    text-align: center;
+}
+.footer li {
+    border: solid 1px black;
+    background-color: black;
+    padding: 5px;
+    vertical-align: middle;
+    line-height: 150px;
+}
+span {
+    border: solid 1px black;
+    background-color: black;
+    color: white;
+}
